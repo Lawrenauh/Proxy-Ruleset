@@ -1,7 +1,10 @@
+# Youtube
 DOMAIN, yt3.ggpht.com
 DOMAIN, youtubei.googleapis.com
 DOMAIN-SUFFIX, googlevideo.com
 DOMAIN-SUFFIX, youtube.com
+
+# Google
 DOMAIN-SUFFIX, 265.com
 DOMAIN-SUFFIX, 2mdn.net
 DOMAIN-SUFFIX, adservice.google.com
