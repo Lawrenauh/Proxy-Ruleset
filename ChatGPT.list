@@ -1,0 +1,29 @@
+DOMAIN-SUFFIX,chatgpt.com
+DOMAIN-KEYWORD, chatgpt
+DOMAIN-KEYWORD, openai
+DOMAIN-KEYWORD, gemini
+DOMAIN-SUFFIX,oaistatic.com
+DOMAIN-SUFFIX,oaiusercontent.com
+DOMAIN,cdn.auth0.com
+DOMAIN,challenges.cloudflare.com
+DOMAIN,openaiapi-site.azureedge.net
+DOMAIN-SUFFIX,openai.com
+DOMAIN-SUFFIX,sentry.io
+DOMAIN-SUFFIX,ai.com
+DOMAIN-SUFFIX,identrust.com
+DOMAIN-SUFFIX,js.intercomcdn.com
+DOMAIN-SUFFIX,challenges.cloudflare.com
+DOMAIN-SUFFIX,statsigapi.net
+DOMAIN-SUFFIX,intercom.io
+DOMAIN-SUFFIX,featuregates.org
+DOMAIN-SUFFIX,chat.openai.com.cdn.cloudflare.net
+DOMAIN-SUFFIX,openaiapi-site.azureedge.net
+DOMAIN-SUFFIX,gravatar.com
+DOMAIN-SUFFIX,cdn.oaistatic.com
+DOMAIN-SUFFIX,userstylesapi.com
+DOMAIN-SUFFIX,beacons.gcp.gvt2.com
+DOMAIN-SUFFIX,claude.ai
+DOMAIN-SUFFIX,bard.google.com
+DOMAIN-SUFFIX,generativelanguage.googleapis.com
+DOMAIN-SUFFIX,bing.com
+DOMAIN-SUFFIX,bing.net
