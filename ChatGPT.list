@@ -1,5 +1,7 @@
 DOMAIN-SUFFIX,apple-relay.apple.com
+DOMAIN-SUFFIX,sora.com
 DOMAIN-SUFFIX,chatgpt.com
+DOMAIN-KEYWORD,sora
 DOMAIN-KEYWORD,chatgpt
 DOMAIN-KEYWORD,openai
 DOMAIN-KEYWORD,gemini
