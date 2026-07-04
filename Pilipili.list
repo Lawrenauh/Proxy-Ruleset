@@ -1,8 +1,10 @@
-DOMAIN-SUFFIX,123av.com
+# javdb、123av liangxinyun 代理风控严重，分开处理
+# DOMAIN-KEYWORD,javdb
+# DOMAIN-SUFFIX,123av.com
+
 DOMAIN-SUFFIX,jable.tv
 DOMAIN-KEYWORD,missav
 DOMAIN-KEYWORD,javday
-# DOMAIN-KEYWORD,javdb
 DOMAIN-SUFFIX,91porn.com
 DOMAIN-SUFFIX,91porny.com
 DOMAIN-SUFFIX,infiniteapi.com
